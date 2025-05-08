@@ -17,8 +17,7 @@ st.markdown(
     - Los decimales pueden estar con coma o punto.
     - Debe tener encabezados en la primera fila.
     
-    👉 Puedes descargar un archivo de ejemplo aquí: 
-    [Descargar CSV de ejemplo](https://todominingsolutions.com/wp-content/uploads/2025/05/notas_estudiantes.csv)
+
     """
 )
 
